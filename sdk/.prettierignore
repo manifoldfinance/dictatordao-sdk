@@ -1,0 +1,6 @@
+*.json
+*.min.js
+dist/
+build/
+types/
+*.d.ts
