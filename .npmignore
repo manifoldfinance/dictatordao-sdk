@@ -1,2 +1,6 @@
 contracts/
 contracts-output/
+docs/
+test/
+tests/
+.github/
